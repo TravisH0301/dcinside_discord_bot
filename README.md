@@ -28,3 +28,6 @@ The data saved here is used for comparison against newly web crawled data to det
 #### Discord API
 The discord.py module is used as a Discord API wrapper. Event functions are built using this module to respond to a user's commands on a discord channel. <br>
 The commands allow users to add or remove forums to the web crawler and send new post details to the channel.
+
+
+![alt text](https://github.com/anonydev003/DC_Discord_Bot/raw/master/sample.jpg)
