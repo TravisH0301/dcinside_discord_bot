@@ -30,4 +30,4 @@ The discord.py module is used as a Discord API wrapper. Event functions are buil
 The commands allow users to add or remove forums to the web crawler and send new post details to the channel.
 
 
-![alt text](https://github.com/anonydev003/DC_Discord_Bot/raw/master/sample.jpg)
+![alt text](https://github.com/anonydev003/DC_Discord/raw/master/sample.jpg)
