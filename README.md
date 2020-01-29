@@ -29,5 +29,7 @@ The data saved here is used for comparison against newly web crawled data to det
 The discord.py module is used as a Discord API wrapper. Event functions are built using this module to respond to a user's commands on a discord channel. <br>
 The commands allow users to add or remove forums to the web crawler and send new post details to the channel.
 
-
+## How it looks on Discord channel
+As shown in the screenshot below, the bot constantly sends a message containing post information whenever there is a new post on the selected forums. <br>
+The message includes forum name, post title, writer and post time.
 ![alt text](https://github.com/anonydev003/DC_Discord/raw/master/sample.jpg)
