@@ -15,10 +15,10 @@ The following commands can be used on the discord channel:<br>
 - To toggle on/off the function, type !시작 or !중지.
 
 ## How this works
-This program can be separated into three parts; web crawler, database and Discord API.
+This program is made of three main parts; web crawler, database and Discord API.
 
 #### Web crawler
-By using threading module, web crawling is done on selected forums constantly.<br>
+By using threading module, web crawling is done on selected forums constantly as a separate thread.<br>
 The web crawled post data is then preprocessed and saved into the database.
 
 #### Database
