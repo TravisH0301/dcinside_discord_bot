@@ -33,3 +33,4 @@ The commands allow users to add or remove forums to the web crawler and send new
 As shown in the screenshot below, the bot constantly sends a message containing post information whenever there is a new post on the selected forums. <br>
 The message includes forum name, post title, writer and post time. <br>
 ![alt text](https://github.com/anonydev003/DC_Discord/raw/master/sample.jpg)
+![alt text](https://github.com/anonydev003/DC_Discord/raw/master/dcbotsample.png)
