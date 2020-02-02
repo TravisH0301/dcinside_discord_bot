@@ -6,7 +6,7 @@ Please note that as this program monitors the Korean forums, it only supports Ko
 This bot program was built in order to monitor multiple forums easily on one discord channel.
 
 ## How to use
-This bot program requires a use to create a discord bot and implement on a discord channel before running the code.
+This bot program requires a user to create a discord bot and implement on a discord channel before running the code.
 Then, input the bot token on to the script to run the bot.<br>
 After running a bot program, a user can add or remove the dcinside forums to monitor, see a list of added forums and toggle on/off the monitoring.<br>
 The following commands can be used on the discord channel:<br>
@@ -14,7 +14,7 @@ The following commands can be used on the discord channel:<br>
 - To see a list of added forums, type !리스트.
 - To toggle on/off the function, type !시작 or !중지.
 
-## How this works
+## How it works
 This program is made of three main parts; web crawler, database and Discord API.
 
 #### Web crawler
