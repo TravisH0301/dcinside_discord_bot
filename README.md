@@ -10,9 +10,12 @@ This bot program requires a user to create a discord bot and implement on a disc
 Then, input the bot token on to the script to run the bot.<br>
 After running a bot program, a user can add or remove the dcinside forums to monitor, see a list of added forums and toggle on/off the monitoring.<br>
 The following commands can be used on the discord channel:<br>
-- To add or delete a forum, type !추가 <갤러리이름> or !삭제 <갤러리이름>.
-- To see a list of added forums, type !리스트.
-- To toggle on/off the function, type !시작 or !중지.
+- To add a new forum to the system, type !등록 <갤러리이름> <갤러리영문링크> <갤러리마이너변수>.
+  ^ <i>manual addtion of forum to the bot system in case the bot doesn't recognise</i>
+- To add or delete a forum to monitor, type !추가 <갤러리이름> or !삭제 <갤러리이름>.
+- To see a list of monitoring forums, type !리스트.
+- To toggle on/off motinoring, type !시작 or !중지.
+- To view bot's current status, type !상태.
 
 ## How it works
 This program is made of three main parts; web crawler, database and Discord API.
