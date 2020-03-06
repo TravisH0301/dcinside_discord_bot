@@ -1,4 +1,4 @@
-# dcinside_discord_bot
+# DCinside Discord Bot
 Discord bot that perpetually monitors selected dcinside forums and sends details of new posts to a discord channel as a message.
 Please note that as this program monitors the Korean forums, it only supports Korean commands. 
 
